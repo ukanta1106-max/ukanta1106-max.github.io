@@ -1,1 +1,1 @@
-# ukanta1106-max.github.io
+# konbini-rebyu-hiroshima.github.io
