@@ -146,3 +146,22 @@
     nav ul a:hover{
         color: #fc0;
     }
+
+    .ranking-table{
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    h1 {
+        color: black;
+    }
+
+    .dummy {
+        margin: 0; 
+    }
+
+header{
+    background-color: lightblue;
+    color: lightblue;
+}
+
